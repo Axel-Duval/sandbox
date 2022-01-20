@@ -2,6 +2,11 @@
 
 I am not an expert, the examples below are designed for learning purposes.
 
+## Starter sandbox
+[![Edit 🕹️ Sandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/clever-rumple-g3i3s?fontsize=14&hidenavigation=1&theme=dark)
+
+
+# Examples
 | Example  |  Live demo    |
 |----------|:-------------:|
 | [`react-useCallback`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/use-callback) |  [![Edit 🕹️ Sandbox - react - useCallback](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sandbox-react-usecallback-ur0kb?fontsize=14&hidenavigation=1&theme=dark) |
