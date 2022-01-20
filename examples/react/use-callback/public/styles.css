@@ -27,7 +27,8 @@ p {
 }
 
 body {
-  width: 100vw;
+  width: 95vw;
+  padding: var(--l);
 }
 
 div,
@@ -48,6 +49,7 @@ main {
 
 .flex {
   display: flex;
+  flex-wrap: wrap;
 }
 .justify-center {
   justify-content: center;
@@ -63,6 +65,9 @@ main {
 }
 .text-center {
   text-align: center;
+}
+.text-left {
+  text-align: left;
 }
 
 button {
