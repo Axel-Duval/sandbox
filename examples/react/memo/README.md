@@ -1,3 +1,5 @@
+[![Edit thirsty-lehmann-eifii](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/thirsty-lehmann-eifii?fontsize=14&hidenavigation=1&theme=dark)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
