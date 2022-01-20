@@ -5,6 +5,7 @@ I am not an expert, the examples below are designed for learning purposes.
 | Example  |  Live demo    |
 |----------|:-------------:|
 | [`react-useCallback`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/use-callback) |  [![Edit 🕹️ Sandbox - react - useCallback](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sandbox-react-usecallback-ur0kb?fontsize=14&hidenavigation=1&theme=dark) |
+| [`react-memo`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/memo) | [![Edit thirsty-lehmann-eifii](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/thirsty-lehmann-eifii?fontsize=14&hidenavigation=1&theme=dark)
 
 
 ## Contribution
