@@ -1,4 +1,4 @@
-[![Edit 🕹️ Sandbox - react - useCallback](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sandbox-react-usecallback-ur0kb?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit 🕹️ Sandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/clever-rumple-g3i3s?fontsize=14&hidenavigation=1&theme=dark)
 
 # Getting Started with Create React App
 
