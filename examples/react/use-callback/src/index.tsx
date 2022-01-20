@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <>
-      <h1 className="border">{counter}</h1>
+      <h1>{counter}</h1>
       <p>Component redraw counter</p>
       <div className="flex justify-center gap" display-name="Buttons">
         <Button onClick={callback}>simple</Button>
