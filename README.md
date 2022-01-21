@@ -12,6 +12,7 @@ I am not an expert, the examples below are designed for learning purposes.
 | [`react-memo`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/memo) | [![Edit thirsty-lehmann-eifii](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/thirsty-lehmann-eifii?fontsize=14&hidenavigation=1&theme=dark)
 | [`react-useCallback`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/use-callback) |  [![Edit 🕹️ Sandbox - react - useCallback](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sandbox-react-usecallback-ur0kb?fontsize=14&hidenavigation=1&theme=dark) |
 |[`react-useMemo`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/use-memo)|[![Edit 🕹️ Sandbox - react - useMemo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/crimson-sound-3ehlt?fontsize=14&hidenavigation=1&theme=dark)|
+|[`react-useRef`](https://github.com/Axel-Duval/sandbox/tree/main/examples/react/use-ref)|[![Edit 🕹️ Sandbox - react - useRef](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/weathered-grass-bygbp?fontsize=14&hidenavigation=1&theme=dark)|
 
 
 ## Contribution
